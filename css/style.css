@@ -13,6 +13,7 @@ h1{
 	text-align: center;
 	font-size: 55px;
 	color: #272640;
+	text-shadow: 10px 10px 30px rgb(5, 23, 61)
 }
 h2.summary-heading{
 	font-family: 'Cormorant Garamond', serif;
@@ -75,4 +76,6 @@ div{
 	text-align: center;	
 }
 
-
+.image{
+	text-align: center;
+}
