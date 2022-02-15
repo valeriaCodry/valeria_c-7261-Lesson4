@@ -17,17 +17,13 @@ h1{
 }
 h2.summary-heading{
 	font-family: 'Cormorant Garamond', serif;
-  	font-family: 'Montserrat', sans-serif;
-	font-family: 'Noticia Text', serif;
 	font-weight: 700;
 	font-size: 35px;
 	color:#312244;
 	text-align: center;
 }
 .summary{
-	font-family: 'Cormorant Garamond', serif;
 	font-family: 'Montserrat', sans-serif;
-	font-family: 'Noticia Text', serif;
 	font-style: italic;
 	font-size: 20px;
 	color: #3E1F47;
@@ -35,9 +31,7 @@ h2.summary-heading{
 
 body{
 	background-color: #9c89b84f;
-	font-family: 'Montserrat', sans-serif;
 	font-family: 'Noticia Text', serif;
-	font-family: 'Rubik', sans-serif;
 	font-style: oblique;
 	line-height:1.5;
 }
